@@ -1,0 +1,10 @@
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\NancyApplication.dll.config
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\NancyApplication.dll
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\NancyApplication.pdb
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\Nancy.dll
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\Nancy.Hosting.Aspnet.dll
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\Nancy.xml
+E:\GIT\Srinu\NancyFX\NancyApplication\bin\Nancy.Hosting.Aspnet.xml
+E:\GIT\Srinu\NancyFX\NancyApplication\obj\Debug\NancyApplication.csprojResolveAssemblyReference.cache
+E:\GIT\Srinu\NancyFX\NancyApplication\obj\Debug\NancyApplication.dll
+E:\GIT\Srinu\NancyFX\NancyApplication\obj\Debug\NancyApplication.pdb
